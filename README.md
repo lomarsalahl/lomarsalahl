@@ -1,6 +1,6 @@
 Cybersecurity Trainee | SOC & Penetration Testing Enthusiast | Security+ Certified | Always learning and building 🚀
 
-# Hi, I'm Omar Mazen 👋
+# Hi, I'm Omar Salah Mazen 👋
 
 🎓 Cybersecurity Trainee  
 🔍 Interested in SOC, Penetration Testing, and Network Defense  
@@ -17,7 +17,7 @@ Cybersecurity Trainee | SOC & Penetration Testing Enthusiast | Security+ Certifi
 
 ## 📫 Contact me:
 - Email: e6.omar@gmail.com
-- LinkedIn: [your LinkedIn profile here]
+- LinkedIn: 
 
 <!---
 lomarsalahl/lomarsalahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
